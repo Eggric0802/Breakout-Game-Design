@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Breakout Game_yxl180081Asg6</string>
+    <string name="action_settings">Settings</string>
+    <string name="record">PlayInfo</string>
+    <string name="Name">Name</string>
+    <string name="Score">Score</string>
+</resources>
